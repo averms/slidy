@@ -14,7 +14,7 @@ Just to have an extra mirror, fix some bugs, and get them on a CDN.
 ---
 title: HTML Slidy
 author: Dave
-slidy-url: 'https://cdn.jsdelivr.net/gh/a-vrma/slidy@0.1.0'
+slidy-url: 'https://cdn.jsdelivr.net/gh/averms/slidy@0.1.0'
 ---
 
 # Content here
